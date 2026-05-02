@@ -25,7 +25,7 @@ I'm a Full Stack Developer based in Holon, Israel 🇮🇱, with ~2 years of pro
 
 **DevOps & Tools:** Docker · Docker Compose · Git · Chrome Extensions (Manifest V3)
 
-**Languages:** TypeScript · JavaScript · Python · Kotlin · Swift · VBA
+**Languages:** TypeScript · JavaScript · Python · Kotlin · Swift · Java · VBA
 
 ---
 
@@ -53,10 +53,10 @@ Machine learning project predicting Titanic passenger survival.
 
 ## 💼 Experience
 
-**Full Stack Developer** — *Reeflect* (Surfing & Water Sports Platform)
+**Full Stack Developer** — *Reeflect* (Surfing & Water Sports Platform)  
 React · TypeScript · Node.js · Firebase · REST APIs
 
-**Design Automation Developer** — *Fuga Technologies*
+**Design Automation Developer** — *Fuga Technologies*  
 Python · VBA · process automation
 
 ---
@@ -67,11 +67,21 @@ Python · VBA · process automation
 
 ---
 
+## 🏅 Certifications
+
+[![Oracle Certified Associate Java SE 8](https://img.shields.io/badge/Oracle-Java%20SE%208%20Programmer-red?logo=oracle&logoColor=white)](https://www.credly.com/badges/b74f16cf-9473-4861-aae1-9a8e152287e9)
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=eranCat&show_icons=true&theme=default&hide_border=true" alt="Eran's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eranCat&layout=compact&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eranCat&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="Eran's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eranCat&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=eranCat&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
