@@ -75,13 +75,16 @@ Python · VBA · process automation
 
 ## 📊 GitHub Stats
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eranCat&theme=default)
+
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eranCat&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="Eran's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eranCat&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eranCat&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eranCat&theme=default" />
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=eranCat&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eranCat&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eranCat&theme=default&utcOffset=3" />
 </p>
 
 ---
