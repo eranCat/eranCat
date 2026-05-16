@@ -52,5 +52,5 @@ I build mobile and web apps with clean architecture and a focus on real-world us
 ## 📧 Contact
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-erancat.github.io-blue?style=flat&logo=github)](https://erancat.github.io/portfolio-site)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/eran-karaso)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/eran-karaso-182965176/)
 [![Email](https://img.shields.io/badge/Email-eranka12@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eranka12@gmail.com)
