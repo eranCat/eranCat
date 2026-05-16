@@ -1,96 +1,56 @@
-# Hi there, I'm Eran Karaso! 👋
+# Hi, I'm Eran 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/eranCat?label=Follow&style=social)](https://github.com/eranCat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/eran-karaso-182965176)
-[![Email](https://img.shields.io/badge/Email-eranka12%40gmail.com-red?logo=gmail&logoColor=white)](mailto:eranka12@gmail.com)
+Full-Stack Developer based in Holon, Israel · BSc Computer Science, HIT (GPA 92/100)
 
-## About Me
-
-I'm a Full Stack Developer based in Holon, Israel 🇮🇱, with ~2 years of professional experience building scalable web applications. I hold a B.Sc. in Computer Science from HIT (GPA: 92/100) and love turning complex problems into clean, practical solutions.
-
-- 🔭 Currently building: microservices apps, automation tools & full-stack projects
-- 🌊 Past life: built a surfing & water-sports platform — because code and waves both need good flow
-- 💬 Ask me about: React, TypeScript, Node.js, Firebase, REST APIs, Docker
-- 📫 Reach me at: eranka12@gmail.com
+I build mobile and web apps with clean architecture and a focus on real-world usability. Currently open to junior full-stack, backend, frontend, and mobile roles in Israel or remote.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React · TypeScript · JavaScript (ES6+) · HTML5 · CSS3 · Vite
+**Languages**
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-**Backend:** Node.js · Express · FastAPI (Python) · REST APIs
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
 
-**Database & Cloud:** Firebase · Firestore · Google Sheets API
+**Backend**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
-**DevOps & Tools:** Docker · Docker Compose · Git · Chrome Extensions (Manifest V3)
-
-**Languages:** TypeScript · JavaScript · Python · Kotlin · Swift · Java · VBA
-
----
-
-## 📌 Featured Projects
-
-### ✈️ [Travel Optimizer](https://github.com/eranCat/docker-project-travel-optimizer)
-Intelligent travel planning platform that recommends personalized Points of Interest and generates optimized routes.
-- **Stack:** React · TypeScript · Vite · Python · FastAPI · Docker · Groq LLM API · OpenStreetMap
-- Microservices architecture with live SSE progress streaming and interactive map visualization
-
-### 🏥 [DMT Medical App](https://github.com/eranCat/DMT---Proms)
-Patient-Reported Outcomes Management System (PROMs) for medical teams.
-- **Stack:** Kotlin (Android)
-- Structured data collection and reporting for clinical workflows
-
-### 🧘 [Yoga App](https://github.com/eranCat/Yoga_app_android) · [iOS](https://github.com/eranCat/Yoga-app-ios)
-Cross-platform app for yoga teachers and students to discover and schedule classes by location.
-- **Stack:** Kotlin (Android) · Swift (iOS)
-
-### 🤖 [Titanic ML](https://github.com/eranCat/TitanicML)
-Machine learning project predicting Titanic passenger survival.
-- **Stack:** Python · Jupyter Notebook · scikit-learn
+**Infra & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 💼 Experience
+## 🚀 Featured Projects
 
-**Full Stack Developer** — *Reeflect* (Surfing & Water Sports Platform)  
-React · TypeScript · Node.js · Firebase · REST APIs
-
-**Design Automation Developer** — *Fuga Technologies*  
-Python · VBA · process automation
-
----
-
-## 📖 Education
-
-🎓 **B.Sc. in Computer Science** — Holon Institute of Technology (HIT) · GPA: **92/100**
-
----
-
-## 🏅 Certifications
-
-[![Oracle Certified Associate Java SE 8](https://img.shields.io/badge/Oracle-Java%20SE%208%20Programmer-red?logo=oracle&logoColor=white)](https://www.credly.com/badges/b74f16cf-9473-4861-aae1-9a8e152287e9)
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [docker-project-travel-optimizer](https://github.com/eranCat/docker-project-travel-optimizer) | Full-stack travel itinerary optimizer with LLM & Maps API | React · FastAPI · Docker |
+| [clinical-proms-app](https://github.com/eranCat/clinical-proms-app) | KMP app for clinical Patient-Reported Outcomes tracking | Kotlin · Android · iOS |
+| [Yoga_app_android](https://github.com/eranCat/Yoga_app_android) | Android yoga class scheduling & booking app | Kotlin · Firebase |
+| [Yoga-app-ios](https://github.com/eranCat/Yoga-app-ios) | iOS companion yoga app with location-based class search | Swift · Firebase |
+| [Dapp-blockchain](https://github.com/eranCat/Dapp-blockchain) | Ethereum DApp with Solidity smart contracts | Solidity · Hardhat · TypeScript |
+| [TitanicML](https://github.com/eranCat/TitanicML) | Titanic survival prediction with ML models (84% accuracy) | Python · scikit-learn |
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eranCat&theme=default)
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eranCat&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eranCat&theme=default" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eranCat&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eranCat&theme=default&utcOffset=3" />
-</p>
+![Eran's GitHub stats](https://github-readme-stats.vercel.app/api?username=eranCat&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ---
 
-## 📫 Connect with Me
+## 📧 Contact
 
-- 💼 [LinkedIn](https://linkedin.com/in/eran-karaso-182965176)
-- 📧 [eranka12@gmail.com](mailto:eranka12@gmail.com)
-- 🐙 [GitHub](https://github.com/eranCat)
+[![Portfolio](https://img.shields.io/badge/Portfolio-erancat.github.io-blue?style=flat&logo=github)](https://erancat.github.io/portfolio-site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/eran-karaso)
+[![Email](https://img.shields.io/badge/Email-eranka12@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eranka12@gmail.com)
