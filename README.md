@@ -1,6 +1,6 @@
 # Eran Karaso
 
-Full-Stack Developer · Holon, Israel · BSc CS, HIT (92/100)
+Full-Stack Developer · BSc CS, HIT (92/100)
 
 Open to junior full-stack, backend, frontend & mobile roles — Israel or remote.
 
